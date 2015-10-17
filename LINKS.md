@@ -5,6 +5,7 @@ Linux boot
 ------------------------
 
 * [Linux/x86 boot protocol](https://www.kernel.org/doc/Documentation/x86/boot.txt)
+* [Linux kernel parameters](https://github.com/torvalds/linux/blob/master/Documentation/kernel-parameters.txt)
 
 Protected mode
 ------------------------
@@ -43,3 +44,9 @@ Other architectures
 ------------------------
 
 * [PowerPC and Linux Kernel Inside](http://www.systemcomputing.org/ppc/)
+
+Useful links
+------------------------
+
+* [Linux x86 Program Start Up](http://dbp-consulting.com/tutorials/debugging/linuxProgramStartup.html)
+* [Memory Layout in Program Execution (32 bits)](http://fgiasson.com/articles/memorylayout.txt)
